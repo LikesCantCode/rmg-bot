@@ -7,3 +7,12 @@ settings.json
 /node_modules
 .pem
 /venv
+env.yml
+venv.yml
+pem.yml
+node_modules.yml
+node.yml
+private.yml
+settings.yml
+vscode.yml
+config.yml
