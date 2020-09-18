@@ -28,7 +28,7 @@ client.on('message', message => {
 	const commandName = args.shift().toLowerCase();
 	
 	const command = client.commands.get(commandName)
-		|| client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandNAme));
+		|| client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
 	
 	if (!command) return;
 	
@@ -67,7 +67,7 @@ client.on('message', message => {
 		command.execute(message, args);
 	} catch (error) {
 		console.error('Error executing command:', error);
-		message.reply('an unexpected error occurred. Please go to the GitHub project.'):
+		message.reply('an unexpected error occurred. Please go to the GitHub project.');
 	}
 });
 
