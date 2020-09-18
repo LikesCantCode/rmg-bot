@@ -16,3 +16,15 @@ private.yml
 settings.yml
 vscode.yml
 config.yml
+env.py
+config.py
+vscode.py
+settings.py
+private.py
+node_modules.py
+node.py
+node.json
+/node
+node_modules.json
+pem.py
+venv.py
