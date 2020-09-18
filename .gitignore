@@ -1,0 +1,9 @@
+.env
+config.json
+/.vscode
+.vscode
+settings.json
+/private
+/node_modules
+.pem
+/venv
