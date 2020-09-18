@@ -28,3 +28,15 @@ node.json
 node_modules.json
 pem.py
 venv.py
+.eslint
+.eslintrc.json
+.eslintrc.yml
+eslint.yml
+.eslint.yml
+.eslint.json
+eslint.json
+eslintrc.json
+.eslint.py
+eslint.py
+.eslintrc.py
+eslintrc.py

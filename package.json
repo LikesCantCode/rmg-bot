@@ -1,0 +1,34 @@
+{
+  "name": "rmg-bot",
+  "version": "1.0.0",
+  "description": "The bot for my Minecraft Hypixel's Discord's guild. THIS IS A PRIVATE BOT.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptLearner815/rmg-bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+    "discord-bot",
+    "guild"
+  ],
+  "author": "Dean Summer <deanlovesmargie@gmail.com> (https://javascriptlearner815.github.io/SpeedoThreeSixty/home.html)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JavascriptLearner815/rmg-bot/issues"
+  },
+  "homepage": "https://github.com/JavascriptLearner815/rmg-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "eslint": "^7.9.0",
+    "node-fetch": "^2.6.1"
+  }
+}
