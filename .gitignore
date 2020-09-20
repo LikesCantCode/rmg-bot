@@ -40,3 +40,8 @@ eslintrc.json
 eslint.py
 .eslintrc.py
 eslintrc.py
+.dll
+.dat
+.exe
+.hi
+.ini
